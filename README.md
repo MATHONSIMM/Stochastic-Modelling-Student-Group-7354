@@ -1,11 +1,13 @@
 # Stochastic-Modelling-Student-Group-7354
 
 ## SM Group Work Project 
-Group Members
+### Group Members
 Student Group 7354
 
 Mphikeleli Mbongiseni Mathonsi
+
 Anthony Pitters
+
 Nuredin Petros Haile
 
 Carefully read and follow the GWP submission instructions below:
