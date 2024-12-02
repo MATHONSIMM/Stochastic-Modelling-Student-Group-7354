@@ -10,7 +10,7 @@ Anthony Pitters
 
 Nuredin Petros Haile
 
-Carefully read and follow the GWP submission instructions below:
+### Carefully read and follow the GWP submission instructions below:
 
 Before the submission deadline:
 
