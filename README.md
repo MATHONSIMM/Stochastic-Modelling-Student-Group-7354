@@ -1,8 +1,7 @@
 # Stochastic-Modelling-Student-Group-7354
 
 ## SM Group Work Project 
-### Group Members
-Student Group 7354
+### Group Members Student Group 7354
 
 Mphikeleli Mbongiseni Mathonsi
 
